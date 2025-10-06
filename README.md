@@ -2,7 +2,7 @@
 
 A powerful, privacy-focused web application for adding watermarks to PDFs and images. Built with React and vanilla JavaScript, all processing happens locally in your browser - no files are uploaded to any server.
 
-![WatermarkPro Demo](https://via.placeholder.com/800x400?text=WatermarkPro+Demo)
+![WatermarkPro Demo](https://aryan-git-byte.github.io/Watermark-adder/)
 
 ## ✨ Features
 
